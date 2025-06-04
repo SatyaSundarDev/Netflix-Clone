@@ -53,7 +53,7 @@ body{
 .navbar-right{
     display: flex;
     align-items: center;
-    gap: 20px;
+    gap: 22px;
 }
 
 .navbar-right i{
